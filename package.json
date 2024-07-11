@@ -1,6 +1,9 @@
 {
   "name": "@fahmi-armand/packagescopedfar",
   "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Testing publish package for npm via npm",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
